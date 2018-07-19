@@ -59,8 +59,7 @@ CONTAINERS
   overflow: hidden; }
 
 section.header {
-  background: #fff;
-  border: 1px solid red; }
+  background: #fff; }
 
 #column-1 {
   width: 30%;
